@@ -24,3 +24,5 @@ Node *Node::GetNext(){
 Node *Node::GetPrev(){
     return prev;
 }
+
+// @Crocussys
